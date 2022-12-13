@@ -52,7 +52,7 @@ const classCounter = computed(() => {
 </script>
 
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid" >
 
   <h1>Hola {{nombre.toUpperCase()}}</h1>
   <h2 :style="colorDinamico">Mi primera aplicacion en VueJS</h2> <!-- El v-bine se puede omitir con :-->
