@@ -1,6 +1,11 @@
 # mi-primer-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Mi primer proyecto realizado bajo Vue 3.
+Un proyecto simple pero para adentrarme dentro de este framework.
+
+- NodeJS
+- VisualStudioCode
+- Vue3
 
 ## Recommended IDE Setup
 
